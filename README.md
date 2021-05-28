@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @BOTzola
 - 👀 I’m interested in Web Development, Software Development and Computer Graphics
-- 🌱 I’m currently learning PHP and MySQL
+- 🌱 I’m currently learning AngularJS
+- 👌 Known languages: HTML, CSS, Javascript, Java, C#, PHP, PostgreSQL
